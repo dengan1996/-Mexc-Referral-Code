@@ -19,8 +19,9 @@ Or click this referral link to activate the code automatically:
 
 By signing up with this code, you can:
 
+- 10% fees off
 - Unlock a welcome bonus of up to **$8,000**
-- Access exclusive missions in the [Rewards Hub](https://www.mexc.com/rewards)
+- Access exclusive missions in the [Rewards Hub]
 - Enjoy zero maker fees on futures trading
 - Trade hundreds of altcoins and memecoins before other exchanges list them
 - Try MEXC DEX with no KYC and fast swaps
